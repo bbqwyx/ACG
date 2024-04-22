@@ -1,0 +1,62 @@
+body {
+  font-family: Arial;
+  font-size: 19.75px;
+}
+header {
+  margin-bottom: 50px;
+  width: 750px;
+  margin-left: 330px;
+  text-align: center;
+}
+.groupname {
+  margin-bottom: 50px;
+  width: 750px;
+  margin-left: 325px;
+  text-align: center;
+}
+.officialgreeting {
+  margin-bottom: 50px;
+  width: 750px;
+  margin-left: 325px;
+  text-align: center;
+}
+.fan {
+  margin-bottom: 50px;
+  width: 750px;
+  margin-left: 325px;
+  text-align: center;
+}
+.offclcolors {
+  background-image: linear-gradient(to right, #ffadad, #ffd6a5, #fdffb6, #caffbf, #9bf6ff, #a0c4ff, #bdb2ff, #ffc6ff);
+}
+.dorm {
+  margin-bottom: 50px;
+  width: 750px;
+  margin-left: 325px;
+  text-align: center;
+}
+.offclaccounts {
+  margin-bottom: 50px;
+  width: 750px;
+  margin-left: 325px;
+  text-align: center;
+}
+.jinahconceptphoto {
+  height: 450px;
+}
+.jinahp {
+  text-align: center;
+}
+.membersprofiletitle {
+  text-align: center;
+  position: relative;
+  top: 15px;
+}
+.jinahprofile {
+  text-align: center;
+  position: relative;
+  bottom: 20px;
+}
+.jinah span {
+  background-color: #e0b0ff;
+}
